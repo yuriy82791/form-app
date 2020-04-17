@@ -8,8 +8,8 @@ export default function App() {
     <Router>
       <div className="site-container">
         <Switch>
-          <Route exact path="/form-app/" component={SignIn} />
           <Route exact path="/form-app/registration" component={SignUp} />
+          <Route exact path="/form-app/" component={SignIn} />
         </Switch>
       </div>
     </Router>
