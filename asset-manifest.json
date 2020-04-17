@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/form-app/static/css/main.fd29cb2c.chunk.css",
+    "main.js": "/form-app/static/js/main.43a24628.chunk.js",
+    "main.js.map": "/form-app/static/js/main.43a24628.chunk.js.map",
+    "runtime-main.js": "/form-app/static/js/runtime-main.81cfb7c1.js",
+    "runtime-main.js.map": "/form-app/static/js/runtime-main.81cfb7c1.js.map",
+    "static/js/2.e8304267.chunk.js": "/form-app/static/js/2.e8304267.chunk.js",
+    "static/js/2.e8304267.chunk.js.map": "/form-app/static/js/2.e8304267.chunk.js.map",
+    "index.html": "/form-app/index.html",
+    "precache-manifest.0e83bc1a205bb7210bc75009821187fe.js": "/form-app/precache-manifest.0e83bc1a205bb7210bc75009821187fe.js",
+    "service-worker.js": "/form-app/service-worker.js",
+    "static/css/main.fd29cb2c.chunk.css.map": "/form-app/static/css/main.fd29cb2c.chunk.css.map",
+    "static/js/2.e8304267.chunk.js.LICENSE.txt": "/form-app/static/js/2.e8304267.chunk.js.LICENSE.txt",
+    "static/media/padlock.e813679f.svg": "/form-app/static/media/padlock.e813679f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81cfb7c1.js",
+    "static/js/2.e8304267.chunk.js",
+    "static/css/main.fd29cb2c.chunk.css",
+    "static/js/main.43a24628.chunk.js"
+  ]
+}
